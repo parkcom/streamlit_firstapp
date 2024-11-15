@@ -1,0 +1,33 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Jupyter Notebook 관련
+.ipynb_checkpoints
+
+# 환경 설정 파일
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code 관련
+.vscode/
+.history/
+
+# 기타
+*.log
+*.csv
+*.dat
+*.sqlite
